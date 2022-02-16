@@ -8,7 +8,7 @@
 
 ## Resources 
 
-* Source- `Employee_Database_challenge.sql`
+* Source- `Pewlett_Hackard_Analysis_Challenge.sql`
 * Tools- pgAdmin4
 
 ## Deliverable 1-  Determine the number of employees retiring by their title
