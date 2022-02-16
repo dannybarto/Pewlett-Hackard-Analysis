@@ -1,4 +1,4 @@
---Deliverable #1- Generate the number of retiring employees by title
+--Deliverable 1- Generate the number of retiring employees by title
 
 --Find the number of retiring employees by title
 SELECT e.emp_no,
@@ -32,7 +32,7 @@ GROUP BY title
 ORDER BY COUNT(title) DESC;
 
 
---Deliverable #2- Determine employees who are eligible for the mentorship program
+--Deliverable 2- Determine employees who are eligible for the mentorship program
 
 --Query to find employees who are eligiblle for the mentorship program
 SELECT DISTINCT ON(e.emp_no) e.emp_no, 

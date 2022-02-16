@@ -15,23 +15,23 @@
  
  **Created, and executed an SQL query  to create a Retirement Titles table for employees whose dates of birth are from January 1, 1952 to December 31, 1955. Then exported the table**
 
- https://github.com/dannybarto/Pewlett-Hackard-Analysis/blob/a29f23c49b6ad6f18a235288c4d7cd8d60baa9d3/Data/retirement_titles.png
+ https://github.com/dannybarto/Pewlett-Hackard-Analysis/blob/ef86d43c6c28ce8f808f66636b4a1d8822b1a5e4/Data/retirement_titles.png
 
  
  ​***Created and executed an SQL query to generate a Unique Titles table that contains the employee number, first and last name, and most recent title. Then exported the table**
 
-https://github.com/dannybarto/Pewlett-Hackard-Analysis/blob/a29f23c49b6ad6f18a235288c4d7cd8d60baa9d3/Data/unique_titles.png
+https://github.com/dannybarto/Pewlett-Hackard-Analysis/blob/ef86d43c6c28ce8f808f66636b4a1d8822b1a5e4/Data/unique_titles.png
 
 
 **Created and executed an SQL query to generate a Retiring Titles table that contains the number of titles filled by employees who are retiring. Then exported the table**
 
-https://github.com/dannybarto/Pewlett-Hackard-Analysis/blob/a29f23c49b6ad6f18a235288c4d7cd8d60baa9d3/Data/retiring_titles.png
+https://github.com/dannybarto/Pewlett-Hackard-Analysis/blob/ef86d43c6c28ce8f808f66636b4a1d8822b1a5e4/Data/retiring_titles.png
 
 ## Deliverable 2- The Employees Eligible for the Mentorship Program
 
 **Created and executed an SQL to generate a list of those employees eligible for the mentorship program. Eligibility is for current employees who were born from January 1, 1965 to December 31, 1965. Then exported the table**
 
-https://github.com/dannybarto/Pewlett-Hackard-Analysis/blob/a29f23c49b6ad6f18a235288c4d7cd8d60baa9d3/Data/mentoring_titles.png
+https://github.com/dannybarto/Pewlett-Hackard-Analysis/blob/ef86d43c6c28ce8f808f66636b4a1d8822b1a5e4/Data/mentoring_titles.png
 
 ## Deliverable 3- Provide a written report of the database analysis
 
